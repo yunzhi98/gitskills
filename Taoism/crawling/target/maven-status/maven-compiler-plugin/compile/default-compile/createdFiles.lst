@@ -1,0 +1,2 @@
+com\yun\auto\controller\login\LoginController.class
+com\yun\auto\system\interceptor\MemberInterceptor.class
